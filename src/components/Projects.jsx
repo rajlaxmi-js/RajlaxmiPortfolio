@@ -96,7 +96,7 @@ function ProjectsComponent() {
         desc: "An interactive food delivery platform with real-time search and filtering.",
         tags: ["React.js", "Tailwind css"],
         category: "react",
-        links: [{ type: "demo", href: "https://rajlaxmi-js.github.io/data-generator/" }]
+        links: [{ type: "demo", href: "https://fooddeliverysites.netlify.app/" }]
       },
 
       // ---------- JAVASCRIPT ----------
