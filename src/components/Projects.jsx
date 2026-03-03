@@ -92,8 +92,8 @@ function ProjectsComponent() {
         links: [{ type: "demo", href: "https://rajlaxmi-app-notes.netlify.app/" }]
       },
       {
-        title: "Joke Generator",
-        desc: "A fun  app that generates random jokes using an API.",
+        title: "Food Delivery site",
+        desc: "An interactive food delivery platform with real-time search and filtering.",
         tags: ["React.js", "Tailwind css"],
         category: "react",
         links: [{ type: "demo", href: "https://rajlaxmi-js.github.io/data-generator/" }]
