@@ -86,9 +86,9 @@ SkillSection.displayName = "SkillSection";
 
 // --- Static Data (No changes needed) ---
 const SKILLS_SECTIONS = [
-    { icon: <Code className="w-6 h-6" />, title: "Technical Skills", tags: [ "JavaScript", "HTML", "CSS"] },
+    { icon: <Code className="w-6 h-6" />, title: "Technical Skills", tags: [ "JavaScript", "HTML", "CSS", "Node.JS", "Express.Js","Mongo DB",] },
     { icon: <Layers className="w-6 h-6" />, title: "Frameworks & Libraries", tags: ["React", "Tailwind CSS", "Redux",] },
-    { icon: <Terminal className="w-6 h-6" />, title: "Tools & Platforms", tags: ["Git", "GitHub", "VS Code",  "Netlify"] },
+    { icon: <Terminal className="w-6 h-6" />, title: "Tools & Platforms", tags: ["Git", "GitHub", "VS Code",  "Netlify","Vercel",] },
     { icon: <Sparkles className="w-6 h-6" />, title: "Interests", tags: [ "reading books", "coding", "bloging","singing"] },
 ];
 
