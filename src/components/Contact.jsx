@@ -81,7 +81,7 @@ function ContactComponent() {
     const data = Object.fromEntries(formData.entries());
 
     try {
-      const response = await fetch("https://formspree.io/f/mldnaeeb", {
+      const response = await fetch("https://formspree.io/f/xaqzvrrb", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data),
@@ -130,7 +130,7 @@ function ContactComponent() {
 
         <motion.div variants={itemVariants}>
           <a
-            href="mailto:shashankraj0124@gmail.com"
+            href="mailto:rrajlaxmi400@gmail.com"
             className="flex justify-center items-center gap-2 text-primary text-lg font-medium hover:underline transition-colors duration-200"
             target="_blank"
             rel="noopener noreferrer"
